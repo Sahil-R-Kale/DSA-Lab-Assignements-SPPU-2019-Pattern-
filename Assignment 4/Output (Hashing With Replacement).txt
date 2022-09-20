@@ -1,0 +1,88 @@
+-------------Phone Book Program--------------
+
+1.Hashing without replacement
+2.Hashing with replacement
+Enter your choice: 2
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 1
+
+Enter name to be inserted: ABC
+Enter number to be inserted: 1213331331
+
+Inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 1
+
+Enter name to be inserted: CBA
+Enter number to be inserted: 1221133131
+
+Inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 1
+
+Enter name to be inserted: BCA
+Enter number to be inserted: 434324242
+
+Inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 1
+
+Enter name to be inserted: BBA
+Enter number to be inserted: 13311313
+
+Inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 2
+
+Enter name to be searched: ABC
+
+Record found!
+Name: ABC
+Telephone Number: 1213331331
+Number of comparisons done: 1
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 2
+
+Enter name to be searched: BCA
+
+Record found!
+Name: BCA
+Telephone Number: 434324242
+Number of comparisons done: 2
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 2
+
+Enter name to be searched: CBA
+
+Record found!
+Name: CBA
+Telephone Number: 1221133131
+Number of comparisons done: 3

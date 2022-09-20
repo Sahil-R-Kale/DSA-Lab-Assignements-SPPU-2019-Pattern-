@@ -1,0 +1,86 @@
+--------Topological Sort---------
+Enter number of vertices in graph: 6
+
+----------Menu----------
+1.Add edge
+2.Show adjacency matrix
+3.Topological Sort
+4.Exit
+Enter your choice: 1
+Enter source vertex(0-5): 5
+Enter destination vertex(0-5): 0
+Edge successfully added!
+
+----------Menu----------
+1.Add edge
+2.Show adjacency matrix
+3.Topological Sort
+4.Exit
+Enter your choice: 1
+Enter source vertex(0-5): 4
+Enter destination vertex(0-5): 0
+Edge successfully added!
+
+----------Menu----------
+1.Add edge
+2.Show adjacency matrix
+3.Topological Sort
+4.Exit
+Enter your choice: 1
+Enter source vertex(0-5): 5
+Enter destination vertex(0-5): 2
+Edge successfully added!
+
+----------Menu----------
+1.Add edge
+2.Show adjacency matrix
+3.Topological Sort
+4.Exit
+Enter your choice: 1
+Enter source vertex(0-5): 4
+Enter destination vertex(0-5): 1
+Edge successfully added!
+
+----------Menu----------
+1.Add edge
+2.Show adjacency matrix
+3.Topological Sort
+4.Exit
+Enter your choice: 1
+Enter source vertex(0-5): 2
+Enter destination vertex(0-5): 3
+Edge successfully added!
+
+----------Menu----------
+1.Add edge
+2.Show adjacency matrix
+3.Topological Sort
+4.Exit
+Enter your choice: 1
+Enter source vertex(0-5): 3
+Enter destination vertex(0-5): 1
+Edge successfully added!
+
+----------Menu----------
+1.Add edge
+2.Show adjacency matrix
+3.Topological Sort
+4.Exit
+Enter your choice: 2
+
+Adjacency matrix is: 
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   1   0   0   
+0   1   0   0   0   0   
+1   1   0   0   0   0   
+1   0   1   0   0   0   
+
+----------Menu----------
+1.Add edge
+2.Show adjacency matrix
+3.Topological Sort
+4.Exit
+Enter your choice: 3
+
+Topological sort is: 4 5 0 2 3 1 

@@ -1,0 +1,138 @@
+-------------Hashed Dictionary Program--------------
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 1
+
+Enter key to be inserted: ABC
+Enter value to be inserted: 123
+
+Record inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 1
+
+Enter key to be inserted: ABC1
+Enter value to be inserted: 123
+
+Record inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 1
+
+Enter key to be inserted: BCA
+Enter value to be inserted: 1233
+
+Record inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 1
+
+Enter key to be inserted: CBA
+Enter value to be inserted: 1313
+
+Record inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 1
+
+Enter key to be inserted: CCC
+Enter value to be inserted: 121221
+
+Record inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 2
+
+Enter name to be searched: ABC
+
+Record found!
+Key: ABC
+Value: 123
+Number of comparisons: 1
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 2
+
+Enter name to be searched: BCA
+
+Record found!
+Key: BCA
+Value: 1233
+Number of comparisons: 2
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 2
+
+Enter name to be searched: CCA
+
+Record not found!
+Number of comparisons: 1
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 2
+
+Enter name to be searched: CCC
+
+Record found!
+Key: CCC
+Value: 121221
+Number of comparisons: 1
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 3
+
+Enter name to be searched: CCC
+
+Record deleted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Delete record
+4.Exit
+Enter your choice: 2
+
+Enter name to be searched: CCC
+
+Record not found!
+Number of comparisons: 1

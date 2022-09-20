@@ -1,0 +1,72 @@
+-------------Phone Book Program--------------
+
+1.Hashing without replacement
+2.Hashing with replacement
+Enter your choice: 1
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 1
+
+Enter name to be inserted: ABC
+Enter number to be inserted: 123456789
+
+Inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 1
+
+Enter name to be inserted: CBA
+Enter number to be inserted: 123333112
+
+Inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 1
+
+Enter name to be inserted: BBA
+Enter number to be inserted: 123313131
+
+Inserted successfully!
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 2
+
+Enter name to be searched: ABC
+
+Record found!
+Name: ABC
+Telephone Number: 123456789
+Number of comparisons done: 1
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 2
+
+Enter name to be searched: CBA
+
+Record found!
+Name: CBA
+Telephone Number: 123333112
+Number of comparisons done: 2
+
+------------Menu------------
+1.Insert record
+2.Search record
+3.Exit
+Enter your choice: 3
+
+Thank You!
