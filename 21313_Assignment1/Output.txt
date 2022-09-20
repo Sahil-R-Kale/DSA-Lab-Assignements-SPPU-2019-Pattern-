@@ -1,0 +1,133 @@
+Create binary tree!
+
+Enter data for node: 3
+
+Do you want to add another node? (y/n)y
+Enter data for node: 2
+Node exists! Do you want to insert node to the left or right? (L/R): L
+Node successfully added!
+
+Do you want to add another node? (y/n)y
+Enter data for node: 1
+Node exists! Do you want to insert node to the left or right? (L/R): R
+Node successfully added!
+
+Do you want to add another node? (y/n)y
+Enter data for node: 4
+Node exists! Do you want to insert node to the left or right? (L/R): L
+Node exists! Do you want to insert node to the left or right? (L/R): L
+Node successfully added!
+
+Do you want to add another node? (y/n)y
+Enter data for node: 5
+Node exists! Do you want to insert node to the left or right? (L/R): L
+Node exists! Do you want to insert node to the left or right? (L/R): R
+Node successfully added!
+
+Do you want to add another node? (y/n)n
+
+
+-------------Menu---------------
+1.Recursive traversals
+2.Iterative Traversals
+3.Height of tree
+4.Mirror the tree
+5.Count leaf nodes
+6.Copy tree
+7.Erase tree and exit
+Enter choice: 1
+
+Inorder traversal is: 
+4	2	5	3	1	
+Preorder traversal is: 
+3	2	4	5	1	
+Postorder traversal is: 
+4	5	2	1	3	
+
+-------------Menu---------------
+1.Recursive traversals
+2.Iterative Traversals
+3.Height of tree
+4.Mirror the tree
+5.Count leaf nodes
+6.Copy tree
+7.Erase tree and exit
+Enter choice: 2
+
+Inorder traversal is: 
+4	2	5	3	1	
+Preorder traversal is: 
+3      2      4      5      1      
+Postorder traversal is: 
+4      5      2      1      3      
+
+-------------Menu---------------
+1.Recursive traversals
+2.Iterative Traversals
+3.Height of tree
+4.Mirror the tree
+5.Count leaf nodes
+6.Copy tree
+7.Erase tree and exit
+Enter choice: 3
+
+Height of tree= 2
+
+-------------Menu---------------
+1.Recursive traversals
+2.Iterative Traversals
+3.Height of tree
+4.Mirror the tree
+5.Count leaf nodes
+6.Copy tree
+7.Erase tree and exit
+Enter choice: 4
+Mirror created successfully! Traversals of mirror are: 
+
+Inorder traversal is: 
+1	3	5	2	4	
+Preorder traversal is: 
+3	1	2	5	4	
+Postorder traversal is: 
+1	5	4	2	3	
+
+-------------Menu---------------
+1.Recursive traversals
+2.Iterative Traversals
+3.Height of tree
+4.Mirror the tree
+5.Count leaf nodes
+6.Copy tree
+7.Erase tree and exit
+Enter choice: 5
+
+Leaf count: 3
+
+-------------Menu---------------
+1.Recursive traversals
+2.Iterative Traversals
+3.Height of tree
+4.Mirror the tree
+5.Count leaf nodes
+6.Copy tree
+7.Erase tree and exit
+Enter choice: 6
+Copy created successfully! Traversals of copy are: 
+
+Inorder traversal is: 
+4	2	5	3	1	
+Preorder traversal is: 
+3	2	4	5	1	
+Postorder traversal is: 
+4	5	2	1	3	
+
+-------------Menu---------------
+1.Recursive traversals
+2.Iterative Traversals
+3.Height of tree
+4.Mirror the tree
+5.Count leaf nodes
+6.Copy tree
+7.Erase tree and exit
+Enter choice: 7
+Tree erased succesfully! Thank You!
