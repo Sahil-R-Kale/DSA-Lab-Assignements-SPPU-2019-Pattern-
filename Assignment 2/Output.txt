@@ -1,0 +1,159 @@
+--------------Binary Tree--------------
+
+Create your tree: 
+Enter key: Name
+Enter meaning: Sahil
+Do you wish to continue adding strings? (y/n)y
+Enter key: Age 
+Enter meaning: 20
+Do you wish to continue adding strings? (y/n)y
+Enter key: College
+Enter meaning: ABC
+Do you wish to continue adding strings? (y/n)y
+Enter key: Job
+Enter meaning: Engineer
+Do you wish to continue adding strings? (y/n)y
+Enter key: Aim
+Enter meaning: UPSC
+Do you wish to continue adding strings? (y/n)n
+
+------------Menu-------------
+1.Traversals
+2.Sort
+3.Search
+4.Update
+5.Delete
+Enter your choice: 1
+
+Inorder traversal is: 
+Age : 20
+Aim : UPSC
+College : ABC
+Job : Engineer
+Name : Sahil
+
+Postorder traversal is: 
+Aim : UPSC
+Job : Engineer
+College : ABC
+Age : 20
+Name : Sahil
+
+Preorder traversal is: 
+Name : Sahil
+Age : 20
+College : ABC
+Aim : UPSC
+Job : Engineer
+
+------------Menu-------------
+1.Traversals
+2.Sort
+3.Search
+4.Update
+5.Delete
+Enter your choice: 2
+
+Ascending order:
+Age : 20
+Aim : UPSC
+College : ABC
+Job : Engineer
+Name : Sahil
+
+Descending order:
+Name : Sahil
+Job : Engineer
+College : ABC
+Aim : UPSC
+Age : 20
+
+------------Menu-------------
+1.Traversals
+2.Sort
+3.Search
+4.Update
+5.Delete
+Enter your choice: 3
+Enter key to be searched: Job
+No of comparisons done: 1
+
+Meaning of given key is: Engineer
+
+------------Menu-------------
+1.Traversals
+2.Sort
+3.Search
+4.Update
+5.Delete
+Enter your choice: 4
+Enter key to be searched: Job
+No of comparisons done: 1
+
+Enter meaning to update with: MPSC
+Updated successfully!
+
+------------Menu-------------
+1.Traversals
+2.Sort
+3.Search
+4.Update
+5.Delete
+Enter your choice: 1
+
+Inorder traversal is: 
+Age : 20
+Aim : UPSC
+College : ABC
+Job : MPSC
+Name : Sahil
+
+Postorder traversal is: 
+Aim : UPSC
+Job : MPSC
+College : ABC
+Age : 20
+Name : Sahil
+
+Preorder traversal is: 
+Name : Sahil
+Age : 20
+College : ABC
+Aim : UPSC
+Job : MPSC
+
+------------Menu-------------
+1.Traversals
+2.Sort
+3.Search
+4.Update
+5.Delete
+Enter your choice: 5
+Enter key to be deleted: Age
+Deleted successfully!
+
+------------Menu-------------
+1.Traversals
+2.Sort
+3.Search
+4.Update
+5.Delete
+Enter your choice: 1
+
+Inorder traversal is: 
+Aim : UPSC
+College : ABC
+Job : MPSC
+Name : Sahil
+
+Postorder traversal is: 
+Aim : UPSC
+Job : MPSC
+College : ABC
+Name : Sahil
+
+Preorder traversal is: 
+Name : Sahil
+College : ABC
+Aim : UPSC
+Job : MPSC
